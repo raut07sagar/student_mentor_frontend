@@ -1,0 +1,19 @@
+#mentor_box{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+table{
+    background-color: rgb(253, 253, 253);
+    
+    /* box-shadow: 1px 1px 8px 5px rgb(51, 47, 47) ; */
+    
+    margin-top: 1.5rem;
+    border-style: ridge;
+   border-width: 30px;
+   
+   
+
+   
+  
+}
